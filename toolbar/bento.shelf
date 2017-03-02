@@ -19,9 +19,7 @@ createDlp.main()]]></script>
 
   <tool name="bento_createCacheDendency" label="cCDP" icon="SOP_file">
     <script scriptType="python"><![CDATA[import cacheDependency
-cacheDependency.main()
-
-]]></script>
+cacheDependency.main()]]></script>
   </tool>
 
   <tool name="bento_colorNodes" label="CNodes" icon="COP2_colorwheel">
